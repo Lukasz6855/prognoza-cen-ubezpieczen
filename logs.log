@@ -1,0 +1,2324 @@
+2025-12-14 00:28:14,511:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-12-14 00:28:14,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-12-14 00:28:14,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-12-14 00:28:14,512:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-12-14 00:28:16,667:INFO:Initializing load_model()
+2025-12-14 00:28:16,667:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:40,176:INFO:Initializing load_model()
+2025-12-14 00:28:40,179:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:40,481:INFO:Initializing load_model()
+2025-12-14 00:28:40,482:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:40,732:INFO:Initializing load_model()
+2025-12-14 00:28:40,732:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:41,132:INFO:Initializing load_model()
+2025-12-14 00:28:41,132:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:41,557:INFO:Initializing load_model()
+2025-12-14 00:28:41,557:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:44,740:INFO:Initializing load_model()
+2025-12-14 00:28:44,740:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:50,974:INFO:Initializing load_model()
+2025-12-14 00:28:50,976:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:51,580:INFO:Initializing load_model()
+2025-12-14 00:28:51,581:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:51,744:INFO:Initializing load_model()
+2025-12-14 00:28:51,744:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:51,954:INFO:Initializing load_model()
+2025-12-14 00:28:51,954:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:52,059:INFO:Initializing load_model()
+2025-12-14 00:28:52,059:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:52,235:INFO:Initializing load_model()
+2025-12-14 00:28:52,235:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:52,533:INFO:Initializing load_model()
+2025-12-14 00:28:52,535:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:52,923:INFO:Initializing load_model()
+2025-12-14 00:28:52,923:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:52,973:INFO:Initializing load_model()
+2025-12-14 00:28:52,987:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:53,160:INFO:Initializing load_model()
+2025-12-14 00:28:53,164:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:53,893:INFO:Initializing load_model()
+2025-12-14 00:28:53,893:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:28:54,552:INFO:Initializing load_model()
+2025-12-14 00:28:54,552:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:10,848:INFO:Initializing load_model()
+2025-12-14 00:29:10,848:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:13,696:INFO:Initializing load_model()
+2025-12-14 00:29:13,696:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:14,114:INFO:Initializing load_model()
+2025-12-14 00:29:14,114:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:14,141:INFO:Initializing load_model()
+2025-12-14 00:29:14,141:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:14,314:INFO:Initializing load_model()
+2025-12-14 00:29:14,322:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:14,701:INFO:Initializing load_model()
+2025-12-14 00:29:14,701:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:14,728:INFO:Initializing load_model()
+2025-12-14 00:29:14,730:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:15,260:INFO:Initializing load_model()
+2025-12-14 00:29:15,276:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:18,642:INFO:Initializing load_model()
+2025-12-14 00:29:18,642:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:20,166:INFO:Initializing load_model()
+2025-12-14 00:29:20,166:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:23,916:INFO:Initializing load_model()
+2025-12-14 00:29:23,916:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:29:24,122:INFO:Initializing predict_model()
+2025-12-14 00:29:24,122:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9DCD90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF749A0>)
+2025-12-14 00:29:24,122:INFO:Checking exceptions
+2025-12-14 00:29:24,122:INFO:Preloading libraries
+2025-12-14 00:29:24,138:INFO:Set up data.
+2025-12-14 00:29:24,168:INFO:Set up index.
+2025-12-14 00:29:24,428:INFO:Initializing predict_model()
+2025-12-14 00:29:24,428:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256398329D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000256396E96C0>)
+2025-12-14 00:29:24,428:INFO:Checking exceptions
+2025-12-14 00:29:24,428:INFO:Preloading libraries
+2025-12-14 00:29:24,428:INFO:Set up data.
+2025-12-14 00:29:24,428:INFO:Set up index.
+2025-12-14 00:30:02,988:INFO:Initializing load_model()
+2025-12-14 00:30:02,990:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:05,588:INFO:Initializing predict_model()
+2025-12-14 00:30:05,588:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABD0DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000256397FA3E0>)
+2025-12-14 00:30:05,588:INFO:Checking exceptions
+2025-12-14 00:30:05,588:INFO:Preloading libraries
+2025-12-14 00:30:05,602:INFO:Set up data.
+2025-12-14 00:30:05,667:INFO:Set up index.
+2025-12-14 00:30:06,358:INFO:Initializing predict_model()
+2025-12-14 00:30:06,358:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8FB610>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FC900>)
+2025-12-14 00:30:06,358:INFO:Checking exceptions
+2025-12-14 00:30:06,358:INFO:Preloading libraries
+2025-12-14 00:30:06,358:INFO:Set up data.
+2025-12-14 00:30:06,358:INFO:Set up index.
+2025-12-14 00:30:17,602:INFO:Initializing load_model()
+2025-12-14 00:30:17,602:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:17,843:INFO:Initializing predict_model()
+2025-12-14 00:30:17,843:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639833B50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB50F40>)
+2025-12-14 00:30:17,843:INFO:Checking exceptions
+2025-12-14 00:30:17,843:INFO:Preloading libraries
+2025-12-14 00:30:17,843:INFO:Set up data.
+2025-12-14 00:30:17,862:INFO:Set up index.
+2025-12-14 00:30:18,093:INFO:Initializing predict_model()
+2025-12-14 00:30:18,093:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9DC650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FD080>)
+2025-12-14 00:30:18,111:INFO:Checking exceptions
+2025-12-14 00:30:18,111:INFO:Preloading libraries
+2025-12-14 00:30:18,111:INFO:Set up data.
+2025-12-14 00:30:18,115:INFO:Set up index.
+2025-12-14 00:30:20,716:INFO:Initializing load_model()
+2025-12-14 00:30:20,716:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:20,975:INFO:Initializing predict_model()
+2025-12-14 00:30:20,976:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABD13D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8432E0>)
+2025-12-14 00:30:20,976:INFO:Checking exceptions
+2025-12-14 00:30:20,976:INFO:Preloading libraries
+2025-12-14 00:30:20,977:INFO:Set up data.
+2025-12-14 00:30:20,984:INFO:Set up index.
+2025-12-14 00:30:21,226:INFO:Initializing predict_model()
+2025-12-14 00:30:21,226:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397241D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8425C0>)
+2025-12-14 00:30:21,226:INFO:Checking exceptions
+2025-12-14 00:30:21,226:INFO:Preloading libraries
+2025-12-14 00:30:21,226:INFO:Set up data.
+2025-12-14 00:30:21,229:INFO:Set up index.
+2025-12-14 00:30:24,091:INFO:Initializing load_model()
+2025-12-14 00:30:24,091:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:24,304:INFO:Initializing predict_model()
+2025-12-14 00:30:24,304:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639831890>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB527A0>)
+2025-12-14 00:30:24,304:INFO:Checking exceptions
+2025-12-14 00:30:24,304:INFO:Preloading libraries
+2025-12-14 00:30:24,304:INFO:Set up data.
+2025-12-14 00:30:24,304:INFO:Set up index.
+2025-12-14 00:30:24,496:INFO:Initializing predict_model()
+2025-12-14 00:30:24,496:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A84AE50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8432E0>)
+2025-12-14 00:30:24,496:INFO:Checking exceptions
+2025-12-14 00:30:24,496:INFO:Preloading libraries
+2025-12-14 00:30:24,496:INFO:Set up data.
+2025-12-14 00:30:24,496:INFO:Set up index.
+2025-12-14 00:30:31,221:INFO:Initializing load_model()
+2025-12-14 00:30:31,221:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:31,570:INFO:Initializing predict_model()
+2025-12-14 00:30:31,571:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABA9F50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000256397FA3E0>)
+2025-12-14 00:30:31,571:INFO:Checking exceptions
+2025-12-14 00:30:31,571:INFO:Preloading libraries
+2025-12-14 00:30:31,572:INFO:Set up data.
+2025-12-14 00:30:31,576:INFO:Set up index.
+2025-12-14 00:30:31,760:INFO:Initializing predict_model()
+2025-12-14 00:30:31,760:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A973410>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF34A40>)
+2025-12-14 00:30:31,760:INFO:Checking exceptions
+2025-12-14 00:30:31,760:INFO:Preloading libraries
+2025-12-14 00:30:31,760:INFO:Set up data.
+2025-12-14 00:30:31,776:INFO:Set up index.
+2025-12-14 00:30:41,047:INFO:Initializing load_model()
+2025-12-14 00:30:41,048:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:41,220:INFO:Initializing predict_model()
+2025-12-14 00:30:41,220:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639830ED0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB522A0>)
+2025-12-14 00:30:41,220:INFO:Checking exceptions
+2025-12-14 00:30:41,220:INFO:Preloading libraries
+2025-12-14 00:30:41,220:INFO:Set up data.
+2025-12-14 00:30:41,240:INFO:Set up index.
+2025-12-14 00:30:41,461:INFO:Initializing predict_model()
+2025-12-14 00:30:41,461:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563AB65F50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF0DDA0>)
+2025-12-14 00:30:41,461:INFO:Checking exceptions
+2025-12-14 00:30:41,461:INFO:Preloading libraries
+2025-12-14 00:30:41,461:INFO:Set up data.
+2025-12-14 00:30:41,461:INFO:Set up index.
+2025-12-14 00:30:45,520:INFO:Initializing load_model()
+2025-12-14 00:30:45,522:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:45,721:INFO:Initializing predict_model()
+2025-12-14 00:30:45,721:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABABB50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FC900>)
+2025-12-14 00:30:45,721:INFO:Checking exceptions
+2025-12-14 00:30:45,721:INFO:Preloading libraries
+2025-12-14 00:30:45,721:INFO:Set up data.
+2025-12-14 00:30:45,733:INFO:Set up index.
+2025-12-14 00:30:45,949:INFO:Initializing predict_model()
+2025-12-14 00:30:45,951:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABA8790>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FF1A0>)
+2025-12-14 00:30:45,951:INFO:Checking exceptions
+2025-12-14 00:30:45,951:INFO:Preloading libraries
+2025-12-14 00:30:45,951:INFO:Set up data.
+2025-12-14 00:30:45,953:INFO:Set up index.
+2025-12-14 00:30:50,816:INFO:Initializing load_model()
+2025-12-14 00:30:50,816:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:51,004:INFO:Initializing predict_model()
+2025-12-14 00:30:51,004:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639830B10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FD080>)
+2025-12-14 00:30:51,004:INFO:Checking exceptions
+2025-12-14 00:30:51,004:INFO:Preloading libraries
+2025-12-14 00:30:51,004:INFO:Set up data.
+2025-12-14 00:30:51,021:INFO:Set up index.
+2025-12-14 00:30:51,213:INFO:Initializing predict_model()
+2025-12-14 00:30:51,213:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639734590>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563957A480>)
+2025-12-14 00:30:51,213:INFO:Checking exceptions
+2025-12-14 00:30:51,213:INFO:Preloading libraries
+2025-12-14 00:30:51,213:INFO:Set up data.
+2025-12-14 00:30:51,213:INFO:Set up index.
+2025-12-14 00:30:54,780:INFO:Initializing load_model()
+2025-12-14 00:30:54,780:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:30:54,965:INFO:Initializing predict_model()
+2025-12-14 00:30:54,967:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABABC10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000025632F8AD40>)
+2025-12-14 00:30:54,967:INFO:Checking exceptions
+2025-12-14 00:30:54,967:INFO:Preloading libraries
+2025-12-14 00:30:54,967:INFO:Set up data.
+2025-12-14 00:30:54,971:INFO:Set up index.
+2025-12-14 00:30:55,181:INFO:Initializing predict_model()
+2025-12-14 00:30:55,183:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8F9D90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000025639579EE0>)
+2025-12-14 00:30:55,183:INFO:Checking exceptions
+2025-12-14 00:30:55,183:INFO:Preloading libraries
+2025-12-14 00:30:55,183:INFO:Set up data.
+2025-12-14 00:30:55,183:INFO:Set up index.
+2025-12-14 00:31:01,598:INFO:Initializing load_model()
+2025-12-14 00:31:01,598:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:01,788:INFO:Initializing predict_model()
+2025-12-14 00:31:01,788:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639830ED0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB52A20>)
+2025-12-14 00:31:01,788:INFO:Checking exceptions
+2025-12-14 00:31:01,788:INFO:Preloading libraries
+2025-12-14 00:31:01,788:INFO:Set up data.
+2025-12-14 00:31:01,810:INFO:Set up index.
+2025-12-14 00:31:02,002:INFO:Initializing predict_model()
+2025-12-14 00:31:02,002:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397A3010>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB52520>)
+2025-12-14 00:31:02,002:INFO:Checking exceptions
+2025-12-14 00:31:02,002:INFO:Preloading libraries
+2025-12-14 00:31:02,002:INFO:Set up data.
+2025-12-14 00:31:02,005:INFO:Set up index.
+2025-12-14 00:31:04,764:INFO:Initializing load_model()
+2025-12-14 00:31:04,764:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:04,964:INFO:Initializing predict_model()
+2025-12-14 00:31:04,966:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABD04D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8425C0>)
+2025-12-14 00:31:04,966:INFO:Checking exceptions
+2025-12-14 00:31:04,966:INFO:Preloading libraries
+2025-12-14 00:31:04,966:INFO:Set up data.
+2025-12-14 00:31:04,972:INFO:Set up index.
+2025-12-14 00:31:05,153:INFO:Initializing predict_model()
+2025-12-14 00:31:05,155:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABD12D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB52480>)
+2025-12-14 00:31:05,155:INFO:Checking exceptions
+2025-12-14 00:31:05,155:INFO:Preloading libraries
+2025-12-14 00:31:05,155:INFO:Set up data.
+2025-12-14 00:31:05,155:INFO:Set up index.
+2025-12-14 00:31:08,915:INFO:Initializing load_model()
+2025-12-14 00:31:08,915:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:09,110:INFO:Initializing predict_model()
+2025-12-14 00:31:09,110:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9BD090>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB52840>)
+2025-12-14 00:31:09,110:INFO:Checking exceptions
+2025-12-14 00:31:09,110:INFO:Preloading libraries
+2025-12-14 00:31:09,110:INFO:Set up data.
+2025-12-14 00:31:09,110:INFO:Set up index.
+2025-12-14 00:31:09,325:INFO:Initializing predict_model()
+2025-12-14 00:31:09,325:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025638514650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFAA20>)
+2025-12-14 00:31:09,325:INFO:Checking exceptions
+2025-12-14 00:31:09,325:INFO:Preloading libraries
+2025-12-14 00:31:09,325:INFO:Set up data.
+2025-12-14 00:31:09,327:INFO:Set up index.
+2025-12-14 00:31:15,057:INFO:Initializing load_model()
+2025-12-14 00:31:15,057:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:15,262:INFO:Initializing predict_model()
+2025-12-14 00:31:15,262:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639803F50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB52C00>)
+2025-12-14 00:31:15,268:INFO:Checking exceptions
+2025-12-14 00:31:15,270:INFO:Preloading libraries
+2025-12-14 00:31:15,270:INFO:Set up data.
+2025-12-14 00:31:15,274:INFO:Set up index.
+2025-12-14 00:31:15,479:INFO:Initializing predict_model()
+2025-12-14 00:31:15,479:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256391BE090>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FF420>)
+2025-12-14 00:31:15,479:INFO:Checking exceptions
+2025-12-14 00:31:15,479:INFO:Preloading libraries
+2025-12-14 00:31:15,479:INFO:Set up data.
+2025-12-14 00:31:15,479:INFO:Set up index.
+2025-12-14 00:31:27,608:INFO:Initializing load_model()
+2025-12-14 00:31:27,608:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:27,833:INFO:Initializing predict_model()
+2025-12-14 00:31:27,835:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397B7D90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8D6C00>)
+2025-12-14 00:31:27,835:INFO:Checking exceptions
+2025-12-14 00:31:27,836:INFO:Preloading libraries
+2025-12-14 00:31:27,837:INFO:Set up data.
+2025-12-14 00:31:27,842:INFO:Set up index.
+2025-12-14 00:31:28,028:INFO:Initializing predict_model()
+2025-12-14 00:31:28,028:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639725150>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8D6CA0>)
+2025-12-14 00:31:28,028:INFO:Checking exceptions
+2025-12-14 00:31:28,044:INFO:Preloading libraries
+2025-12-14 00:31:28,044:INFO:Set up data.
+2025-12-14 00:31:28,044:INFO:Set up index.
+2025-12-14 00:31:29,433:INFO:Initializing load_model()
+2025-12-14 00:31:29,433:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:29,660:INFO:Initializing predict_model()
+2025-12-14 00:31:29,660:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256398031D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8432E0>)
+2025-12-14 00:31:29,660:INFO:Checking exceptions
+2025-12-14 00:31:29,660:INFO:Preloading libraries
+2025-12-14 00:31:29,660:INFO:Set up data.
+2025-12-14 00:31:29,672:INFO:Set up index.
+2025-12-14 00:31:29,876:INFO:Initializing predict_model()
+2025-12-14 00:31:29,876:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9DD650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FF1A0>)
+2025-12-14 00:31:29,876:INFO:Checking exceptions
+2025-12-14 00:31:29,876:INFO:Preloading libraries
+2025-12-14 00:31:29,876:INFO:Set up data.
+2025-12-14 00:31:29,876:INFO:Set up index.
+2025-12-14 00:31:34,589:INFO:Initializing load_model()
+2025-12-14 00:31:34,589:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:34,787:INFO:Initializing predict_model()
+2025-12-14 00:31:34,787:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639725210>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A843560>)
+2025-12-14 00:31:34,787:INFO:Checking exceptions
+2025-12-14 00:31:34,787:INFO:Preloading libraries
+2025-12-14 00:31:34,787:INFO:Set up data.
+2025-12-14 00:31:34,798:INFO:Set up index.
+2025-12-14 00:31:35,053:INFO:Initializing predict_model()
+2025-12-14 00:31:35,053:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9CFAD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A843920>)
+2025-12-14 00:31:35,053:INFO:Checking exceptions
+2025-12-14 00:31:35,053:INFO:Preloading libraries
+2025-12-14 00:31:35,053:INFO:Set up data.
+2025-12-14 00:31:35,057:INFO:Set up index.
+2025-12-14 00:31:44,465:INFO:Initializing load_model()
+2025-12-14 00:31:44,465:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:31:44,674:INFO:Initializing predict_model()
+2025-12-14 00:31:44,674:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A970DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8D6CA0>)
+2025-12-14 00:31:44,674:INFO:Checking exceptions
+2025-12-14 00:31:44,674:INFO:Preloading libraries
+2025-12-14 00:31:44,674:INFO:Set up data.
+2025-12-14 00:31:44,687:INFO:Set up index.
+2025-12-14 00:31:44,893:INFO:Initializing predict_model()
+2025-12-14 00:31:44,893:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639724E50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8D6CA0>)
+2025-12-14 00:31:44,893:INFO:Checking exceptions
+2025-12-14 00:31:44,893:INFO:Preloading libraries
+2025-12-14 00:31:44,893:INFO:Set up data.
+2025-12-14 00:31:44,902:INFO:Set up index.
+2025-12-14 00:32:12,066:INFO:Initializing load_model()
+2025-12-14 00:32:12,076:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:32:12,253:INFO:Initializing predict_model()
+2025-12-14 00:32:12,253:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABDC910>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF74A40>)
+2025-12-14 00:32:12,253:INFO:Checking exceptions
+2025-12-14 00:32:12,253:INFO:Preloading libraries
+2025-12-14 00:32:12,253:INFO:Set up data.
+2025-12-14 00:32:12,253:INFO:Set up index.
+2025-12-14 00:32:12,462:INFO:Initializing predict_model()
+2025-12-14 00:32:12,462:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9CC290>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFB420>)
+2025-12-14 00:32:12,462:INFO:Checking exceptions
+2025-12-14 00:32:12,462:INFO:Preloading libraries
+2025-12-14 00:32:12,462:INFO:Set up data.
+2025-12-14 00:32:12,462:INFO:Set up index.
+2025-12-14 00:32:19,345:INFO:Initializing load_model()
+2025-12-14 00:32:19,348:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:32:19,728:INFO:Initializing predict_model()
+2025-12-14 00:32:19,728:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABA92D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF0DDA0>)
+2025-12-14 00:32:19,728:INFO:Checking exceptions
+2025-12-14 00:32:19,728:INFO:Preloading libraries
+2025-12-14 00:32:19,729:INFO:Set up data.
+2025-12-14 00:32:19,734:INFO:Set up index.
+2025-12-14 00:32:19,924:INFO:Initializing predict_model()
+2025-12-14 00:32:19,924:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397A2A90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF34EA0>)
+2025-12-14 00:32:19,924:INFO:Checking exceptions
+2025-12-14 00:32:19,924:INFO:Preloading libraries
+2025-12-14 00:32:19,940:INFO:Set up data.
+2025-12-14 00:32:19,954:INFO:Set up index.
+2025-12-14 00:32:25,862:INFO:Initializing load_model()
+2025-12-14 00:32:25,862:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:32:26,239:INFO:Initializing predict_model()
+2025-12-14 00:32:26,239:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563AB67210>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFA7A0>)
+2025-12-14 00:32:26,241:INFO:Checking exceptions
+2025-12-14 00:32:26,241:INFO:Preloading libraries
+2025-12-14 00:32:26,241:INFO:Set up data.
+2025-12-14 00:32:26,249:INFO:Set up index.
+2025-12-14 00:32:26,436:INFO:Initializing predict_model()
+2025-12-14 00:32:26,436:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9CD210>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF74900>)
+2025-12-14 00:32:26,436:INFO:Checking exceptions
+2025-12-14 00:32:26,436:INFO:Preloading libraries
+2025-12-14 00:32:26,436:INFO:Set up data.
+2025-12-14 00:32:26,453:INFO:Set up index.
+2025-12-14 00:32:31,414:INFO:Initializing load_model()
+2025-12-14 00:32:31,414:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:32:31,686:INFO:Initializing predict_model()
+2025-12-14 00:32:31,686:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397A2ED0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF74900>)
+2025-12-14 00:32:31,686:INFO:Checking exceptions
+2025-12-14 00:32:31,686:INFO:Preloading libraries
+2025-12-14 00:32:31,686:INFO:Set up data.
+2025-12-14 00:32:31,702:INFO:Set up index.
+2025-12-14 00:32:31,894:INFO:Initializing predict_model()
+2025-12-14 00:32:31,894:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563ABAA690>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FF1A0>)
+2025-12-14 00:32:31,894:INFO:Checking exceptions
+2025-12-14 00:32:31,894:INFO:Preloading libraries
+2025-12-14 00:32:31,894:INFO:Set up data.
+2025-12-14 00:32:31,894:INFO:Set up index.
+2025-12-14 00:32:35,501:INFO:Initializing load_model()
+2025-12-14 00:32:35,501:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:32:35,694:INFO:Initializing predict_model()
+2025-12-14 00:32:35,694:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8FAA50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000025639579EE0>)
+2025-12-14 00:32:35,694:INFO:Checking exceptions
+2025-12-14 00:32:35,694:INFO:Preloading libraries
+2025-12-14 00:32:35,694:INFO:Set up data.
+2025-12-14 00:32:35,694:INFO:Set up index.
+2025-12-14 00:32:35,891:INFO:Initializing predict_model()
+2025-12-14 00:32:35,891:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256391BE250>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8FF420>)
+2025-12-14 00:32:35,891:INFO:Checking exceptions
+2025-12-14 00:32:35,891:INFO:Preloading libraries
+2025-12-14 00:32:35,891:INFO:Set up data.
+2025-12-14 00:32:35,894:INFO:Set up index.
+2025-12-14 00:39:21,941:INFO:Initializing load_model()
+2025-12-14 00:39:21,949:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:29,505:INFO:Initializing load_model()
+2025-12-14 00:39:29,505:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:29,779:INFO:Initializing load_model()
+2025-12-14 00:39:29,779:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:29,991:INFO:Initializing load_model()
+2025-12-14 00:39:29,991:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:30,259:INFO:Initializing load_model()
+2025-12-14 00:39:30,259:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:30,520:INFO:Initializing load_model()
+2025-12-14 00:39:30,522:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:33,702:INFO:Initializing load_model()
+2025-12-14 00:39:33,702:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:36,297:INFO:Initializing load_model()
+2025-12-14 00:39:36,297:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:36,584:INFO:Initializing load_model()
+2025-12-14 00:39:36,584:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:36,609:INFO:Initializing load_model()
+2025-12-14 00:39:36,609:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:36,764:INFO:Initializing load_model()
+2025-12-14 00:39:36,765:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:37,077:INFO:Initializing load_model()
+2025-12-14 00:39:37,077:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:37,091:INFO:Initializing load_model()
+2025-12-14 00:39:37,099:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:37,257:INFO:Initializing load_model()
+2025-12-14 00:39:37,259:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:37,407:INFO:Initializing load_model()
+2025-12-14 00:39:37,407:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:37,699:INFO:Initializing load_model()
+2025-12-14 00:39:37,699:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:38,072:INFO:Initializing load_model()
+2025-12-14 00:39:38,074:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:38,271:INFO:Initializing load_model()
+2025-12-14 00:39:38,271:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:38,404:INFO:Initializing load_model()
+2025-12-14 00:39:38,404:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:39,525:INFO:Initializing load_model()
+2025-12-14 00:39:39,525:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:44,059:INFO:Initializing load_model()
+2025-12-14 00:39:44,059:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:46,244:INFO:Initializing load_model()
+2025-12-14 00:39:46,244:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:46,807:INFO:Initializing load_model()
+2025-12-14 00:39:46,807:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:46,882:INFO:Initializing load_model()
+2025-12-14 00:39:46,882:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:47,089:INFO:Initializing load_model()
+2025-12-14 00:39:47,089:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:47,452:INFO:Initializing load_model()
+2025-12-14 00:39:47,452:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:47,569:INFO:Initializing load_model()
+2025-12-14 00:39:47,569:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:47,781:INFO:Initializing load_model()
+2025-12-14 00:39:47,781:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:48,679:INFO:Initializing load_model()
+2025-12-14 00:39:48,679:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:51,729:INFO:Initializing load_model()
+2025-12-14 00:39:51,729:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:39:52,093:INFO:Initializing predict_model()
+2025-12-14 00:39:52,094:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A6310>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFB380>)
+2025-12-14 00:39:52,094:INFO:Checking exceptions
+2025-12-14 00:39:52,094:INFO:Preloading libraries
+2025-12-14 00:39:52,099:INFO:Set up data.
+2025-12-14 00:39:52,132:INFO:Set up index.
+2025-12-14 00:39:52,399:INFO:Initializing predict_model()
+2025-12-14 00:39:52,399:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563BD21F10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFB600>)
+2025-12-14 00:39:52,399:INFO:Checking exceptions
+2025-12-14 00:39:52,399:INFO:Preloading libraries
+2025-12-14 00:39:52,399:INFO:Set up data.
+2025-12-14 00:39:52,407:INFO:Set up index.
+2025-12-14 00:40:06,323:INFO:Initializing load_model()
+2025-12-14 00:40:06,323:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:06,516:INFO:Initializing predict_model()
+2025-12-14 00:40:06,516:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397A2DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFB380>)
+2025-12-14 00:40:06,516:INFO:Checking exceptions
+2025-12-14 00:40:06,516:INFO:Preloading libraries
+2025-12-14 00:40:06,516:INFO:Set up data.
+2025-12-14 00:40:06,533:INFO:Set up index.
+2025-12-14 00:40:06,724:INFO:Initializing predict_model()
+2025-12-14 00:40:06,724:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397997D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB460C0>)
+2025-12-14 00:40:06,724:INFO:Checking exceptions
+2025-12-14 00:40:06,724:INFO:Preloading libraries
+2025-12-14 00:40:06,724:INFO:Set up data.
+2025-12-14 00:40:06,724:INFO:Set up index.
+2025-12-14 00:40:35,893:INFO:Initializing load_model()
+2025-12-14 00:40:35,893:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:36,106:INFO:Initializing predict_model()
+2025-12-14 00:40:36,106:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A4950>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF34540>)
+2025-12-14 00:40:36,106:INFO:Checking exceptions
+2025-12-14 00:40:36,106:INFO:Preloading libraries
+2025-12-14 00:40:36,106:INFO:Set up data.
+2025-12-14 00:40:36,112:INFO:Set up index.
+2025-12-14 00:40:36,335:INFO:Initializing predict_model()
+2025-12-14 00:40:36,335:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9404D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A843600>)
+2025-12-14 00:40:36,335:INFO:Checking exceptions
+2025-12-14 00:40:36,335:INFO:Preloading libraries
+2025-12-14 00:40:36,335:INFO:Set up data.
+2025-12-14 00:40:36,335:INFO:Set up index.
+2025-12-14 00:40:36,910:INFO:Initializing load_model()
+2025-12-14 00:40:36,910:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:37,184:INFO:Initializing predict_model()
+2025-12-14 00:40:37,184:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002562FEFC490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB449A0>)
+2025-12-14 00:40:37,184:INFO:Checking exceptions
+2025-12-14 00:40:37,184:INFO:Preloading libraries
+2025-12-14 00:40:37,184:INFO:Set up data.
+2025-12-14 00:40:37,200:INFO:Set up index.
+2025-12-14 00:40:37,528:INFO:Initializing predict_model()
+2025-12-14 00:40:37,528:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A94B090>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8439C0>)
+2025-12-14 00:40:37,528:INFO:Checking exceptions
+2025-12-14 00:40:37,528:INFO:Preloading libraries
+2025-12-14 00:40:37,528:INFO:Set up data.
+2025-12-14 00:40:37,540:INFO:Set up index.
+2025-12-14 00:40:37,987:INFO:Initializing load_model()
+2025-12-14 00:40:37,987:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:38,157:INFO:Initializing predict_model()
+2025-12-14 00:40:38,157:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A6750>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB46520>)
+2025-12-14 00:40:38,157:INFO:Checking exceptions
+2025-12-14 00:40:38,157:INFO:Preloading libraries
+2025-12-14 00:40:38,158:INFO:Set up data.
+2025-12-14 00:40:38,160:INFO:Set up index.
+2025-12-14 00:40:38,379:INFO:Initializing predict_model()
+2025-12-14 00:40:38,382:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256393C4950>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF0E7A0>)
+2025-12-14 00:40:38,382:INFO:Checking exceptions
+2025-12-14 00:40:38,382:INFO:Preloading libraries
+2025-12-14 00:40:38,384:INFO:Set up data.
+2025-12-14 00:40:38,396:INFO:Set up index.
+2025-12-14 00:40:39,320:INFO:Initializing load_model()
+2025-12-14 00:40:39,320:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:39,493:INFO:Initializing predict_model()
+2025-12-14 00:40:39,493:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A1C90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB479C0>)
+2025-12-14 00:40:39,493:INFO:Checking exceptions
+2025-12-14 00:40:39,493:INFO:Preloading libraries
+2025-12-14 00:40:39,493:INFO:Set up data.
+2025-12-14 00:40:39,497:INFO:Set up index.
+2025-12-14 00:40:39,688:INFO:Initializing predict_model()
+2025-12-14 00:40:39,688:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x00000256397A05D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFB600>)
+2025-12-14 00:40:39,688:INFO:Checking exceptions
+2025-12-14 00:40:39,688:INFO:Preloading libraries
+2025-12-14 00:40:39,688:INFO:Set up data.
+2025-12-14 00:40:39,688:INFO:Set up index.
+2025-12-14 00:40:42,099:INFO:Initializing load_model()
+2025-12-14 00:40:42,099:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:42,277:INFO:Initializing predict_model()
+2025-12-14 00:40:42,277:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A4D50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF34A40>)
+2025-12-14 00:40:42,277:INFO:Checking exceptions
+2025-12-14 00:40:42,277:INFO:Preloading libraries
+2025-12-14 00:40:42,278:INFO:Set up data.
+2025-12-14 00:40:42,281:INFO:Set up index.
+2025-12-14 00:40:42,519:INFO:Initializing predict_model()
+2025-12-14 00:40:42,519:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639840850>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF747C0>)
+2025-12-14 00:40:42,519:INFO:Checking exceptions
+2025-12-14 00:40:42,519:INFO:Preloading libraries
+2025-12-14 00:40:42,519:INFO:Set up data.
+2025-12-14 00:40:42,519:INFO:Set up index.
+2025-12-14 00:40:45,343:INFO:Initializing load_model()
+2025-12-14 00:40:45,343:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:45,526:INFO:Initializing predict_model()
+2025-12-14 00:40:45,526:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563AD1F750>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB44B80>)
+2025-12-14 00:40:45,526:INFO:Checking exceptions
+2025-12-14 00:40:45,526:INFO:Preloading libraries
+2025-12-14 00:40:45,526:INFO:Set up data.
+2025-12-14 00:40:45,532:INFO:Set up index.
+2025-12-14 00:40:45,735:INFO:Initializing predict_model()
+2025-12-14 00:40:45,735:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8FBBD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFAAC0>)
+2025-12-14 00:40:45,735:INFO:Checking exceptions
+2025-12-14 00:40:45,735:INFO:Preloading libraries
+2025-12-14 00:40:45,735:INFO:Set up data.
+2025-12-14 00:40:45,744:INFO:Set up index.
+2025-12-14 00:40:49,455:INFO:Initializing load_model()
+2025-12-14 00:40:49,455:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:49,628:INFO:Initializing predict_model()
+2025-12-14 00:40:49,629:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639745B10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB442C0>)
+2025-12-14 00:40:49,629:INFO:Checking exceptions
+2025-12-14 00:40:49,629:INFO:Preloading libraries
+2025-12-14 00:40:49,630:INFO:Set up data.
+2025-12-14 00:40:49,639:INFO:Set up index.
+2025-12-14 00:40:49,837:INFO:Initializing predict_model()
+2025-12-14 00:40:49,837:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563BD21FD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF347C0>)
+2025-12-14 00:40:49,837:INFO:Checking exceptions
+2025-12-14 00:40:49,837:INFO:Preloading libraries
+2025-12-14 00:40:49,837:INFO:Set up data.
+2025-12-14 00:40:49,837:INFO:Set up index.
+2025-12-14 00:40:52,365:INFO:Initializing load_model()
+2025-12-14 00:40:52,365:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:40:52,543:INFO:Initializing predict_model()
+2025-12-14 00:40:52,543:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563979D3D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB47F60>)
+2025-12-14 00:40:52,543:INFO:Checking exceptions
+2025-12-14 00:40:52,543:INFO:Preloading libraries
+2025-12-14 00:40:52,544:INFO:Set up data.
+2025-12-14 00:40:52,550:INFO:Set up index.
+2025-12-14 00:40:52,755:INFO:Initializing predict_model()
+2025-12-14 00:40:52,755:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8F9410>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF347C0>)
+2025-12-14 00:40:52,755:INFO:Checking exceptions
+2025-12-14 00:40:52,755:INFO:Preloading libraries
+2025-12-14 00:40:52,755:INFO:Set up data.
+2025-12-14 00:40:52,755:INFO:Set up index.
+2025-12-14 00:41:03,081:INFO:Initializing load_model()
+2025-12-14 00:41:03,081:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:03,412:INFO:Initializing predict_model()
+2025-12-14 00:41:03,412:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639745850>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB47920>)
+2025-12-14 00:41:03,414:INFO:Checking exceptions
+2025-12-14 00:41:03,414:INFO:Preloading libraries
+2025-12-14 00:41:03,414:INFO:Set up data.
+2025-12-14 00:41:03,436:INFO:Set up index.
+2025-12-14 00:41:04,050:INFO:Initializing predict_model()
+2025-12-14 00:41:04,050:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563BD23F10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF34540>)
+2025-12-14 00:41:04,050:INFO:Checking exceptions
+2025-12-14 00:41:04,050:INFO:Preloading libraries
+2025-12-14 00:41:04,050:INFO:Set up data.
+2025-12-14 00:41:04,050:INFO:Set up index.
+2025-12-14 00:41:06,605:INFO:Initializing load_model()
+2025-12-14 00:41:06,605:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:06,782:INFO:Initializing predict_model()
+2025-12-14 00:41:06,782:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8FB010>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8439C0>)
+2025-12-14 00:41:06,782:INFO:Checking exceptions
+2025-12-14 00:41:06,782:INFO:Preloading libraries
+2025-12-14 00:41:06,782:INFO:Set up data.
+2025-12-14 00:41:06,782:INFO:Set up index.
+2025-12-14 00:41:06,971:INFO:Initializing predict_model()
+2025-12-14 00:41:06,971:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9313D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFAAC0>)
+2025-12-14 00:41:06,971:INFO:Checking exceptions
+2025-12-14 00:41:06,971:INFO:Preloading libraries
+2025-12-14 00:41:06,987:INFO:Set up data.
+2025-12-14 00:41:06,991:INFO:Set up index.
+2025-12-14 00:41:11,044:INFO:Initializing load_model()
+2025-12-14 00:41:11,044:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:11,218:INFO:Initializing predict_model()
+2025-12-14 00:41:11,218:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639744990>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB47600>)
+2025-12-14 00:41:11,218:INFO:Checking exceptions
+2025-12-14 00:41:11,218:INFO:Preloading libraries
+2025-12-14 00:41:11,218:INFO:Set up data.
+2025-12-14 00:41:11,218:INFO:Set up index.
+2025-12-14 00:41:11,421:INFO:Initializing predict_model()
+2025-12-14 00:41:11,421:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639747990>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF34540>)
+2025-12-14 00:41:11,421:INFO:Checking exceptions
+2025-12-14 00:41:11,421:INFO:Preloading libraries
+2025-12-14 00:41:11,421:INFO:Set up data.
+2025-12-14 00:41:11,421:INFO:Set up index.
+2025-12-14 00:41:13,826:INFO:Initializing load_model()
+2025-12-14 00:41:13,826:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:14,008:INFO:Initializing predict_model()
+2025-12-14 00:41:14,008:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563AC38390>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB479C0>)
+2025-12-14 00:41:14,009:INFO:Checking exceptions
+2025-12-14 00:41:14,009:INFO:Preloading libraries
+2025-12-14 00:41:14,009:INFO:Set up data.
+2025-12-14 00:41:14,012:INFO:Set up index.
+2025-12-14 00:41:14,189:INFO:Initializing predict_model()
+2025-12-14 00:41:14,189:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8F9B50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563AB460C0>)
+2025-12-14 00:41:14,189:INFO:Checking exceptions
+2025-12-14 00:41:14,189:INFO:Preloading libraries
+2025-12-14 00:41:14,189:INFO:Set up data.
+2025-12-14 00:41:14,189:INFO:Set up index.
+2025-12-14 00:41:15,921:INFO:Initializing load_model()
+2025-12-14 00:41:15,921:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:16,117:INFO:Initializing predict_model()
+2025-12-14 00:41:16,117:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A13D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A843600>)
+2025-12-14 00:41:16,117:INFO:Checking exceptions
+2025-12-14 00:41:16,117:INFO:Preloading libraries
+2025-12-14 00:41:16,117:INFO:Set up data.
+2025-12-14 00:41:16,120:INFO:Set up index.
+2025-12-14 00:41:16,309:INFO:Initializing predict_model()
+2025-12-14 00:41:16,309:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563979B190>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF0DDA0>)
+2025-12-14 00:41:16,309:INFO:Checking exceptions
+2025-12-14 00:41:16,309:INFO:Preloading libraries
+2025-12-14 00:41:16,309:INFO:Set up data.
+2025-12-14 00:41:16,311:INFO:Set up index.
+2025-12-14 00:41:21,049:INFO:Initializing load_model()
+2025-12-14 00:41:21,049:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:21,222:INFO:Initializing predict_model()
+2025-12-14 00:41:21,222:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A67D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8D76A0>)
+2025-12-14 00:41:21,224:INFO:Checking exceptions
+2025-12-14 00:41:21,224:INFO:Preloading libraries
+2025-12-14 00:41:21,224:INFO:Set up data.
+2025-12-14 00:41:21,226:INFO:Set up index.
+2025-12-14 00:41:21,419:INFO:Initializing predict_model()
+2025-12-14 00:41:21,419:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8F9390>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A8439C0>)
+2025-12-14 00:41:21,419:INFO:Checking exceptions
+2025-12-14 00:41:21,419:INFO:Preloading libraries
+2025-12-14 00:41:21,419:INFO:Set up data.
+2025-12-14 00:41:21,419:INFO:Set up index.
+2025-12-14 00:41:25,826:INFO:Initializing load_model()
+2025-12-14 00:41:25,828:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:25,978:INFO:Initializing predict_model()
+2025-12-14 00:41:25,978:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639841210>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563A843920>)
+2025-12-14 00:41:25,978:INFO:Checking exceptions
+2025-12-14 00:41:25,979:INFO:Preloading libraries
+2025-12-14 00:41:25,979:INFO:Set up data.
+2025-12-14 00:41:25,981:INFO:Set up index.
+2025-12-14 00:41:26,192:INFO:Initializing predict_model()
+2025-12-14 00:41:26,192:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x0000025639828250>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000256397FB060>)
+2025-12-14 00:41:26,192:INFO:Checking exceptions
+2025-12-14 00:41:26,192:INFO:Preloading libraries
+2025-12-14 00:41:26,192:INFO:Set up data.
+2025-12-14 00:41:26,194:INFO:Set up index.
+2025-12-14 00:41:30,509:INFO:Initializing load_model()
+2025-12-14 00:41:30,511:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:30,722:INFO:Initializing predict_model()
+2025-12-14 00:41:30,722:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A61D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF740E0>)
+2025-12-14 00:41:30,722:INFO:Checking exceptions
+2025-12-14 00:41:30,722:INFO:Preloading libraries
+2025-12-14 00:41:30,726:INFO:Set up data.
+2025-12-14 00:41:30,730:INFO:Set up index.
+2025-12-14 00:41:30,944:INFO:Initializing predict_model()
+2025-12-14 00:41:30,944:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563AD1C650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FEE4FE0>)
+2025-12-14 00:41:30,944:INFO:Checking exceptions
+2025-12-14 00:41:30,944:INFO:Preloading libraries
+2025-12-14 00:41:30,944:INFO:Set up data.
+2025-12-14 00:41:30,950:INFO:Set up index.
+2025-12-14 00:41:38,218:INFO:Initializing load_model()
+2025-12-14 00:41:38,218:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:38,430:INFO:Initializing predict_model()
+2025-12-14 00:41:38,430:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563BD20A90>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF0DDA0>)
+2025-12-14 00:41:38,430:INFO:Checking exceptions
+2025-12-14 00:41:38,430:INFO:Preloading libraries
+2025-12-14 00:41:38,430:INFO:Set up data.
+2025-12-14 00:41:38,441:INFO:Set up index.
+2025-12-14 00:41:38,663:INFO:Initializing predict_model()
+2025-12-14 00:41:38,663:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002562FEFC650>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FEE4FE0>)
+2025-12-14 00:41:38,663:INFO:Checking exceptions
+2025-12-14 00:41:38,663:INFO:Preloading libraries
+2025-12-14 00:41:38,663:INFO:Set up data.
+2025-12-14 00:41:38,667:INFO:Set up index.
+2025-12-14 00:41:42,056:INFO:Initializing load_model()
+2025-12-14 00:41:42,056:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:42,250:INFO:Initializing predict_model()
+2025-12-14 00:41:42,250:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A9A5C50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563ABFAAC0>)
+2025-12-14 00:41:42,250:INFO:Checking exceptions
+2025-12-14 00:41:42,250:INFO:Preloading libraries
+2025-12-14 00:41:42,250:INFO:Set up data.
+2025-12-14 00:41:42,256:INFO:Set up index.
+2025-12-14 00:41:42,451:INFO:Initializing predict_model()
+2025-12-14 00:41:42,451:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A8FBCD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF34D60>)
+2025-12-14 00:41:42,451:INFO:Checking exceptions
+2025-12-14 00:41:42,451:INFO:Preloading libraries
+2025-12-14 00:41:42,451:INFO:Set up data.
+2025-12-14 00:41:42,466:INFO:Set up index.
+2025-12-14 00:41:48,605:INFO:Initializing load_model()
+2025-12-14 00:41:48,605:INFO:load_model(model_name=najlepszy_model_ubezpieczenia, platform=None, authentication=None, verbose=True)
+2025-12-14 00:41:48,792:INFO:Initializing predict_model()
+2025-12-14 00:41:48,792:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002563A931350>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002562FF74220>)
+2025-12-14 00:41:48,792:INFO:Checking exceptions
+2025-12-14 00:41:48,792:INFO:Preloading libraries
+2025-12-14 00:41:48,792:INFO:Set up data.
+2025-12-14 00:41:48,796:INFO:Set up index.
+2025-12-14 00:41:49,002:INFO:Initializing predict_model()
+2025-12-14 00:41:49,002:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002562FF40350>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['age', 'bmi', 'children'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=['sex', 'smoker', 'region'],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('ordinal_encoding',
+                 TransformerWrapper(include=['sex', 'smoker'],
+                                    transfor...
+                                    transformer=OneHotEncoder(cols=['region'],
+                                                              handle_missing='return_nan',
+                                                              use_cat_names=True))),
+                ('remove_outliers',
+                 TransformerWrapper(transformer=RemoveOutliers(random_state=123))),
+                ('transformation',
+                 TransformerWrapper(transformer=PowerTransformer(standardize=False))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('trained_model', GradientBoostingRegressor(random_state=123))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002563957A480>)
+2025-12-14 00:41:49,002:INFO:Checking exceptions
+2025-12-14 00:41:49,002:INFO:Preloading libraries
+2025-12-14 00:41:49,002:INFO:Set up data.
+2025-12-14 00:41:49,008:INFO:Set up index.
