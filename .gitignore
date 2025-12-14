@@ -14,13 +14,10 @@ env/
 ENV/
 .venv
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
 # PyCaret
 *.pkl
 *.joblib
-logs/
+*.log
 
 # Streamlit
 .streamlit/
