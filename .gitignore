@@ -15,7 +15,6 @@ ENV/
 .venv
 
 # PyCaret
-*.pkl
 *.joblib
 *.log
 
